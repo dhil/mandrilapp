@@ -1,1 +1,1 @@
-# mandrilapp
+# Mandrillen - Android applikation
